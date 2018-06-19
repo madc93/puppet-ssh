@@ -1,8 +1,13 @@
 {
   "name": "madhu-ssh",
   "version": "0.1.0",
+<<<<<<< HEAD
   "author": "madhu c",
   "summary": "\"module for ssh\"",
+=======
+  "author": "madhu",
+  "summary": "\"This module manages ssh\"",
+>>>>>>> 55bb7a9c03c750d37d1b47dcccb065469f11acef
   "license": "Apache-2.0",
   "source": "https://github.com/madc93/puppet-ssh",
   "project_page": "https://github.com/madc93/puppet-ssh",
